@@ -160,3 +160,6 @@ def get_session_id() -> str:
     Generate a random session id
     """
     return base64.b64encode(token_hex(23).encode()).decode()
+    Male Bottoms: 6383
+
+DefaultColors: #33445B,#FFFFFF,#FFFFFF,#0D0D0D,#FFCE91
